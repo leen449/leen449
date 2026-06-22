@@ -3,7 +3,8 @@ I am a final-year Information Technology student interested in building intellig
 - Machine Learning & Deep Learning<br>
 - Natural Language Processing (NLP) and LLM applications<br>
 - Computer Vision and AI-powered solutions<br>
-- Software development for intelligent applications<br>
+- Software development for intelligent applications<br><bre>
+
 I enjoy experimenting with AI models, transforming ideas into functional systems, and exploring how technology can create practical impact.
 
 
