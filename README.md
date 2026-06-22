@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am a final-year Information Technology student interested in building intelligent systems that solve real-world problems.<br><br>My work focuses on:<br><br>Machine Learning & Deep Learning<br>Natural Language Processing (NLP) and LLM applications<br>Computer Vision and AI-powered solutions<br>Software development for intelligent applications<br>I enjoy experimenting with AI models, transforming ideas into functional systems, and exploring how technology can create practical impact.
+I am a final-year Information Technology student interested in building intelligent systems that solve real-world problems.<br><br>My work focuses on:<br><br>
+- Machine Learning & Deep Learning<br>
+- Natural Language Processing (NLP) and LLM applications<br>
+- Computer Vision and AI-powered solutions<br>
+- Software development for intelligent applications<br>
+I enjoy experimenting with AI models, transforming ideas into functional systems, and exploring how technology can create practical impact.
 
 
 ## 🌐 Connect With Me
